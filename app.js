@@ -4,13 +4,13 @@
 
 /* -------------------------------------------------------- */
 
-const NAME = "Reyes";
+const NAME = "patrick";
 
 const CARDS = [
   {
-    name: "Apple Music",
+    name: "Spotify",
     icon: "ri-music-2-fill",
-    link: "https://music.apple.com/us/browse",
+    link: "https://open.spotify.com/collection/playlists",
   },
   {
     name: "Reddit",
@@ -18,9 +18,9 @@ const CARDS = [
     link: "https://www.reddit.com/",
   },
   {
-    name: "Figma",
+    name: "Product Hunt",
     icon: "ri-palette-fill",
-    link: "https://www.figma.com/",
+    link: "https://www.producthunt.com",
   },
   {
     name: "Github",
